@@ -4,7 +4,7 @@ $koneksi = mysqli_connect(
     "localhost",
     "root",
     "",
-    "florascann"
+    "florascan"
 );
 
 if (!$koneksi) {
